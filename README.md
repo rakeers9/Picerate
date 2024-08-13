@@ -73,6 +73,15 @@ To run this application, you'll need to set up an Appwrite account and replace t
 - **Backend as a Service (BaaS) - Appwrite**  
   Employs Appwrite as a Backend as a Service, streamlining backend development with features like authentication, database management, file storage, and more.
 
+## Pictures
+
+<img width="1470" alt="Screenshot 2024-08-13 at 9 02 59 AM" src="https://github.com/user-attachments/assets/9a45986e-7b14-41fd-a25e-200a8d7a5c23">
+<img width="1470" alt="Screenshot 2024-08-13 at 9 02 49 AM" src="https://github.com/user-attachments/assets/101fbe71-d995-463e-a658-7a7ec53bccfc">
+<img width="1470" alt="Screenshot 2024-08-13 at 9 02 27 AM" src="https://github.com/user-attachments/assets/faa5dcbc-1313-4139-bbe6-2ff586491150">
+<img width="1470" alt="Screenshot 2024-08-13 at 9 01 17 AM" src="https://github.com/user-attachments/assets/b38cf05b-4676-463d-be36-4dd41d5e6dd3">
+<img width="1470" alt="Screenshot 2024-08-13 at 9 04 36 AM" src="https://github.com/user-attachments/assets/ad8c521b-260b-4a6a-90ee-d39b90428db3">
+
+
 ## Enjoy the App!
 
 Once you've completed the setup, you can start using the app and exploring its features.
